@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anro\\source\\repos\\MachineLearning2023\\MachineLearning2023\\MachineLearning2023.csproj": {}
+    "C:\\Users\\Anro\\Desktop\\DSTAnroJvV_Tests\\ResearchResultsCalculations\\MachineLearning2023\\MachineLearning2023.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anro\\source\\repos\\MachineLearning2023\\MachineLearning2023\\MachineLearning2023.csproj": {
+    "C:\\Users\\Anro\\Desktop\\DSTAnroJvV_Tests\\ResearchResultsCalculations\\MachineLearning2023\\MachineLearning2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anro\\source\\repos\\MachineLearning2023\\MachineLearning2023\\MachineLearning2023.csproj",
+        "projectUniqueName": "C:\\Users\\Anro\\Desktop\\DSTAnroJvV_Tests\\ResearchResultsCalculations\\MachineLearning2023\\MachineLearning2023.csproj",
         "projectName": "MachineLearning2023",
-        "projectPath": "C:\\Users\\Anro\\source\\repos\\MachineLearning2023\\MachineLearning2023\\MachineLearning2023.csproj",
+        "projectPath": "C:\\Users\\Anro\\Desktop\\DSTAnroJvV_Tests\\ResearchResultsCalculations\\MachineLearning2023\\MachineLearning2023.csproj",
         "packagesPath": "C:\\Users\\Anro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anro\\source\\repos\\MachineLearning2023\\MachineLearning2023\\obj\\",
+        "outputPath": "C:\\Users\\Anro\\Desktop\\DSTAnroJvV_Tests\\ResearchResultsCalculations\\MachineLearning2023\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
